@@ -1,1 +1,1 @@
-# ImagePrecessing
+# ImageProcessing
