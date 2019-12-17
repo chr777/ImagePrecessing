@@ -7,4 +7,4 @@ But 2-original-image which is not showing standart behavior starts showing it af
 
 
 
-** Matching code can be found in Codes folder
+** Matching code can be found in Code folder
