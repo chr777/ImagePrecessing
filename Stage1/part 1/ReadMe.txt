@@ -15,4 +15,8 @@ In 3-3 I applied Gaussian(1) -> mean(3)  -> median(3) -> Gaussian(1) *mean(3) me
 4-1 photo does not show Standard Behavior.
 In 4-3 I applied Gaussian(1) -> mean(3)  -> median(3) -> Gaussian(1) *mean(3) means mean filter with radius 1 ...
 
+Above listed results are my experiments,but the best resuluts I have got using filter median with radii 5 then applying the binary layer and in the end maximin with radii 1.
+Series of 5_x show my results. Also 5-1 is showing standart behavior.
+
+
 
