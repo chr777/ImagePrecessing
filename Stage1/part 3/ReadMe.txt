@@ -1,0 +1,3 @@
+Here I applyed Binary filters to images which are in 1-1.
+So 1-2 shows binary_level_0, 1-3 shows binary_level_1 and so on ... 
+The rotation affects symetry of the pictures and the smile makes mouth to be bigger in the filters.
