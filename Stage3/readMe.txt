@@ -1,0 +1,2 @@
+I tryed to find the nose in the face, So I applyed median with 5 radii, then Binary_Layer_2, then max with radii 5, then min with radii 3, 
+then max with radii 3, then min with radii 1 and finally max with radii 1
